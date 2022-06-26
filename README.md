@@ -1,0 +1,2 @@
+# SlideShowSample
+SwiftUIでスライドショーのようなUIデモアプリ
